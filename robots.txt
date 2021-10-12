@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://hugodoit.pages.dev/sitemap.xml
+Sitemap: /sitemap.xml
